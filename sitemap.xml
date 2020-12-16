@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/12/16/Hello-the-World/</loc>
+    <loc>http://www.ryougen.jp/2020/12/16/Hello-the-World/</loc>
     
     <lastmod>2020-12-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/16/hello-world/</loc>
+    <loc>http://www.ryougen.jp/2020/12/16/hello-world/</loc>
     
     <lastmod>2020-12-16</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://www.ryougen.jp/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
